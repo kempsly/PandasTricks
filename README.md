@@ -1,0 +1,2 @@
+# PandasTricks
+anylitic with pandas
